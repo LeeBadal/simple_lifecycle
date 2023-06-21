@@ -11,11 +11,6 @@ Handles events when the app is opened for the first time or comes from the backg
 Handles events when the app is closed, not in the foreground, or transitioning between different states.
 Provides easy-to-use callbacks to perform actions based on the app's activity state.
 
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
 ## Usage
 
 1. Import the necessary packages:
