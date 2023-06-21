@@ -1,8 +1,7 @@
 name: simple_lifecycle
 description: Binary lifecycle management for flutter.
 version: 0.0.1
-homepage:
-
+homepage: https://github.com/LeeBadal/simple_lifecycle
 environment:
   sdk: '>=2.18.6 <3.0.0'
   flutter: ">=1.17.0"
