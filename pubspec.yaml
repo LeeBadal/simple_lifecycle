@@ -1,6 +1,6 @@
 name: simple_lifecycle
-description: Binary lifecycle management for flutter.
-version: 0.0.2
+description: The simple_lifecycle package provides a simple and intuitive way to manage the state of your Flutter application. It allows you to categorize the app's lifecycle events into two distinct state, active and paused. The philosophy is that users are in two binary states, either active or inactive.
+version: 0.0.4
 homepage: https://github.com/LeeBadal/simple_lifecycle
 environment:
   sdk: '>=2.18.6 <3.0.0'
